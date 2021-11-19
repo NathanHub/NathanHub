@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<!--
-**NathanHub/NathanHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nathan, and I'm from Dominican Republic. I work as a Data Analyst 📚. 
+I’m currently working on my personal portfolio, making, collaborating in differente projects.
+I make Android Apps 📱 as a freelancer and self thougt. Also work with HTML, CSS, JS, React, Node
+Have worked with HTML, CSS, JS but currently learning Reactjs, Nodejs
 
-Here are some ideas to get you started:
+You can find me in: 
+LinkedIn: [https://www.linkedin.com/in/nathan-decena-456a1518a/]    
+
+![alt text](https://github.com/NathanHub/NathanHub/blob/main/img.gif)
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
