@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nathan, and I'm from Dominican Republic. I work as a Data Analyst 📚.
+I'm Nathan. I work as a Data Analyst 📚.
 I’m currently working on my personal portfolio, making, collaborating in differente projects.
 
 ## Skills and Experience
