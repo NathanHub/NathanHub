@@ -7,7 +7,7 @@ I’m currently working on my personal portfolio, making, collaborating in diffe
 * 📱 Android, Kotlin, Java
 * 🔥 Firebase
 * 🧭 Html, Css, Js
-* ⚛ Reactjs
+* ⚛ Nodejs, Reactjs
 * 📚 SQL Server, PostgreSQL
 * 🐍 Python, FastAPI
 
