@@ -3,7 +3,7 @@
 I'm Nathan. I work as a Data Analyst 📚.
 I’m currently working on my personal portfolio, making, collaborating in differente projects.
 
-## Skills and Experience
+## Skills and Experience, I´m still learning
 * 📱 Android, Kotlin, Java
 * 🔥 Firebase
 * 🧭 Html, Css, Js
