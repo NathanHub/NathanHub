@@ -7,9 +7,9 @@ I’m currently working on my personal portfolio, making, collaborating in diffe
 * 📱 Android, Kotlin, Java
 * 🔥 Firebase
 * 🧭 Html, Css, Js
-* ⚛ Nodejs, Reactjs
+* ⚛ Nodejs, Reactjs, TypeScript
 * 📚 SQL Server, PostgreSQL
-* 🐍 Python, FastAPI
+* 🐍 Python, FastAPI, Django
 
 ![alt text](https://github.com/NathanHub/NathanHub/blob/main/img.gif)
 
