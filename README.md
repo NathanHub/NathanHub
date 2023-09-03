@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I'm Nathan. I work as a Data Analyst 📚.
+I'm Nathan 📚.
 I’m currently working on my personal portfolio, making, collaborating in differente projects.
 
 ## Skills and Experience, I´m still learning
-* 📱 Android, Kotlin, Java
+* 📱 Android - Kotlin
 * 🔥 Firebase
-* 🧭 Html, Css, Js
-* ⚛ Nodejs, Reactjs, TypeScript
-* 📚 SQL Server, PostgreSQL
+* 🧭 Web Development
+* 📚 Databases
 * 🐍 Python, FastAPI, Django
 
 ![alt text](https://github.com/NathanHub/NathanHub/blob/main/img.gif)
